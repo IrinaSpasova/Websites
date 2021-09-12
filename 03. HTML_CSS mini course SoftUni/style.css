@@ -226,6 +226,7 @@ footer p {
 footer ul {
     display: inline-flex;
     text-decoration: none;
+    list-style: none;
 }
 
 footer ul a {
