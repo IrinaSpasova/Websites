@@ -4,7 +4,7 @@
 
 
 ## Screenshots
-![Example screenshot](https:...)
+![Example screenshot](https://github.com/IrinaSpasova/Websites/blob/main/04.%20Glassmorphism%20Video%20Background%20Website/screenshot.png)
 
 
 ## Project Status
